@@ -11,28 +11,27 @@ We greatly look forward to any contributions in various ways. Hope and believe t
 
 ---
 
-- [📁Papers](#papers)
-  - [‍👨‍💻Single Agent](#single-agent)
-      - [🛠️Tool Embedding](#tool-embedding)
+- [📁Papers](#-papers)
+  - [‍👨‍💻Single Agent](#-single-agent)
+      - [🛠️Tool Embedding](#-tool-embedding)
         - [General Tools Retrieval](#general-tools-retrieval)
         - [Web-related](#web-related)
         - [Tool Making](#tool-making)
-        - [Ability Evaluation](#ability-evaluation)
-      - [🦾Robotic & Embodied](#robotics--embodied)
-      - [🐬Memory Enhancement](#memory-enhancement)
-      - [🎩Human World Orientation](#human-world-orientation)
+      - [🦾Robotic & Embodied](#-robotic--embodied)
+      - [🐬Memory Enhancement](#-memory-enhancement)
+      - [🎩Human World Orientation](#-human-world-orientation)
 
-  - [👫Multi-agents](#multi-agent-skills)
-      - [🤝Cooperative System](#cooperative-system)
-      - [🎭Simulation](#simulation)
-         - [Environmental](#environmental-simulation)
+  - [👫Multi-agents](#-multi-agents)
+      - [🤝Cooperative System](#-cooperative-system)
+      - [🎭Simulation](#-simulation)
+         - [Environmental](#environmental)
          - [The Game](#the-game)
          - [Debate](#debate)
-      - [🧑‍🏫Automated Planning](#automated-planning)
-  - [📖Survey](#survey)
-- [🏄‍♂️Projects](#projects)
+      - [🧑‍🏫Automated Planning](#-automated-planning)
+  - [📖Survey](#-survey)
+- [🏄‍♂️Projects](#-projects)
 
-- [👁️Insightful Articles](#insightful-articles)
+- [👁️Insightful Articles](#-insightful-articles)
 - [Acknowledgement](#acknowledgement)
 
 # 📁 Papers
@@ -44,6 +43,8 @@ We greatly look forward to any contributions in various ways. Hope and believe t
 ## 👨‍💻 Single Agent
 ### 🛠️ Tool Embedding
 #### General Tools Retrieval
+- [Jul 2023] **"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** _Yujia Qin (THU) et al._ arXiv. [[paper](https://arxiv.org/abs/2307.16789)]
+"
 #### Web-related
 
 - [Jul 2023] **"WebArena: A Realistic Web Environment for Building Autonomous Agents."** _Shuyan Zhou (CMU) et al._ arXiv. [[paper](https://arxiv.org/abs/2307.13854)] [[code](https://github.com/web-arena-x/webarena)] [[project page](https://webarena.dev)]
