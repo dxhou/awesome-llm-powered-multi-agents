@@ -75,6 +75,8 @@ We greatly look forward to any contributions in various ways. Hope and believe t
 
 
 # 🏄‍♂️ Projects
+- ![GPT Researcher Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher) [🔎 GPT Researcher](https://github.com/assafelovic/gpt-researcher) - an autonomous agent designed for comprehensive online research on a variety of tasks.
+
 
 # 👁️ Insightful Articles
 
